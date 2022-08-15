@@ -1,0 +1,1 @@
+javascript:if(typeof window.e_mailit == 'undefined'){(function(){var b=document.createElement('script');b.type='text/javascript';b.async=true;b.src='//www.e-mailit.com/widget/menu3x/js/bookmarklet.js';var c=document.getElementsByTagName('head')[0];c.appendChild(b)})();}else{e_mailit.menu.open();}void(0);
